@@ -1,0 +1,5 @@
+This is the main fff file. 
+
+FOO
+BAR
+BAZ
